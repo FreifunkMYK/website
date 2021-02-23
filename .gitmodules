@@ -1,0 +1,3 @@
+[submodule "themes/freifunk-myk"]
+	path = themes/freifunk-myk
+	url = git@github.com:FreifunkMYK/gohugo-theme-freifunk-myk.git
