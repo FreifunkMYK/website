@@ -1,3 +1,58 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://freifunk-myk.de/"
+languageCode = "de-de"
+title = "Freifunk-MYK"
+theme = "freifunk-myk"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "Wiki"
+    url = "https://wiki.freifunk-myk.de/"
+    weight = 3
+  [[menu.main]]
+    name = "Router"
+    url = "https://firmware.freifunk-myk.de/"
+    weight = 4
+  [[menu.main]]
+    name = "Karte"
+    url = "https://map.freifunk-myk.de/"
+    weight = 5
+  [[menu.main]]
+    name = "Anleitung"
+    url = "https://wiki.freifunk-myk.de/wiki/anleitung"
+    weight = 6
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.footer]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.footer]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+  [[menu.footer]]
+    name = "FAQ"
+    url = "https://wiki.freifunk-myk.de/wiki/faq"
+    weight = 4
+  [[menu.footer]]
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 5
+  [[menu.footer]]
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 6
+  [[menu.footer]]
+    name = "Datenschutz"
+    url = "/datenschutz/"
+    weight = 7
