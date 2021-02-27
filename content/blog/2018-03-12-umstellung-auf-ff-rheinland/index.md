@@ -5,7 +5,6 @@ draft: false
 authors:
 - kreativmonkey
 timeline: true
-featured_image: "freifunk-rheinland-300x200.png"
 ---
 
 Vor ca. 3 Wochen haben wir nun auch den letzten Austrittspunkt des neuen Netzes auf die Systeme des [Freifunk Rheinland e.V.](https://www.freifunk-rheinland.net/) umgestellt. Durch diese Umstellung hat das Netz nicht nur an Geschwindigkeit und Stabilität gewonnen, es lassen sich nun auch Deutsche Mediatheken wie ZDF oder ARD Mediathek über das Freifunknetz verwenden. Wieso das nun funktioniert, was das nun genau bedeutet und wer überhaupt Freifunk-Rheinland ist, möchte ich in diesem Blogbeitrag erläutern.
