@@ -55,7 +55,7 @@ Gemessene Downloadgeschwidikeit
 
 Wie zu erwarten von Max 100 M/Bit warden im Schnitt 6-7 M/bit erreicht
 
-![](images/mhtml_file_c_users_ib1cpj_appdata_local_temp_temp1_841_zip_problem_20160802_1-001058.jpg)
+![](images/featured-mhtml_file_c_users_ib1cpj_appdata_local_temp_temp1_841_zip_problem_20160802_1-001058.jpg)
 
 Ursache CPU :
 
