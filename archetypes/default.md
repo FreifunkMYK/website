@@ -5,5 +5,4 @@ draft: true
 authors:
 - <Your Name>
 timeline: false
-featured_image: ""
 ---
