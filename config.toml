@@ -2,6 +2,7 @@ baseURL = "https://freifunk-myk.de/"
 languageCode = "de-de"
 title = "Freifunk-MYK"
 theme = "freifunk-myk"
+summarylength = 30
 
 [menu]
   [[menu.main]]
