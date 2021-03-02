@@ -1,4 +1,4 @@
-baseURL = "https://www.freifunk-myk.de/"
+baseURL = "https://freifunk-myk.de/"
 languageCode = "de-de"
 title = "Freifunk-MYK"
 theme = "freifunk-myk"
