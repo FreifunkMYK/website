@@ -42,8 +42,8 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Sebastian Preisner\
-Vulkanstraße 23\
-53179 Bonn
+Koppelgasse 18\
+55270 Ober-Olm
 
 Telefon: 01706031868\
 E-Mail: info@freifunk-myk.de
