@@ -5,9 +5,7 @@ draft: false
 
 ### Angaben gemäß § 5 TMG
 
-Sebastian Preisner\
-Koppelgasse 18\
-55270 Ober-Olm
+{{< contact >}}
 
 ### Kontakt
 
@@ -16,9 +14,7 @@ E-Mail info@freifunk-myk.de
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-Sebastian Preisner\
-Koppelgasse 18\
-55270 Ober-Olm
+{{< contact >}}
 
 Alle Freifunker können eigentständig Inhalte auf der Webseite erstellen und veröffentlichen. Der Author ist selbst für seine Texte verantwortlich. Bei problemen setzen Sie sich bitte mit der Redaktion in Verbindung, wir werden uns dann umgehend darum kümmern.
 
@@ -48,9 +44,7 @@ Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden 
 
 ### Information provided according to Sec. 5 German Telemedia Act (TMG)
 
-Sebastian Preisner\
-Vulkanstraße 23\
-53179 Bonn
+{{< contact >}}
 
 ### Contact
 
@@ -59,9 +53,7 @@ Email: info@freifunk-myk.de
 
 ### Responsible for contents acc. to Sec. 55, para. 2 German Federal Broadcasting Agreement (RstV):
 
-Sebastian Preisner\
-Koppelgasse 18\
-55270 Ober-Olm
+{{< contact >}}
 
 Alle Freifunker können eigentständig Inhalte auf der Webseite erstellen und veröffentlichen. Der Author ist selbst für seine Texte verantwortlich. Bei problemen setzen Sie sich bitte mit der Redaktion in Verbindung, wir werden uns dann umgehend darum kümmern.
 

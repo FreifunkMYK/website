@@ -41,9 +41,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Sebastian Preisner\
-Koppelgasse 18\
-55270 Ober-Olm
+{{< contact >}}
 
 Telefon: 01706031868\
 E-Mail: info@freifunk-myk.de
@@ -214,9 +212,7 @@ Please note that data transmitted via the internet (e.g. via email communication
 
 The party responsible for processing data on this website is:
 
-Sebastian Preisner\
-Vulkanstraße 23\
-53179 Bonn
+{{< contact >}}
 
 Telephone: 01706031868\
 Email: info@freifunk-myk.de
