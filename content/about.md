@@ -10,7 +10,7 @@ Freifunk ist ein Projekt, das versucht ein lokales Datennetz auf Basis von WLAN-
 
 #### Treffen
 
-Wir treffen uns jeden 1. Dienstag im Monat um 19:30 im [Closter Sudhaus](http://www.closter-sudhaus.de/), Koblenz.
+Wir treffen uns jeden 1. Dienstag im Monat um 19:30 in den Vereinsräumen des Hacker- und Makerspaces [„haxko e.V.“ im Bahnhof Andernach](https://haxko.space/space/anfahrt/). Der Eingang befindet sich auf der Rückseite, welche über das Tor neben der Bahnhofshalle erreichbar ist. Bitte beachte die aktuellen [Hygienekonzepte](https://haxko.space/space/hygiene/) der Räumlichkeiten.
 
 Themen zur Diskussion können vorher gerne im [ffmyk-treffen-Pad](https://ffmyk.pads.ccc.de/treffen) gesammelt werden.
 
